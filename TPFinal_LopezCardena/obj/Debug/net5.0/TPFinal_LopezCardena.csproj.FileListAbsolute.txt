@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Desktop\trabajoPractico\TPFinal_LopezCardena\obj\Debug\net5.0\TPFinal_LopezCardena.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\trabajoPractico\TPFinal_LopezCardena\obj\Debug\net5.0\TPFinal_LopezCardena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\trabajoPractico\TPFinal_LopezCardena\obj\Debug\net5.0\TPFinal_LopezCardena.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\trabajoPractico\TPFinal_LopezCardena\obj\Debug\net5.0\TPFinal_LopezCardena.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\trabajoPractico\TPFinal_LopezCardena\obj\Debug\net5.0\TPFinal_LopezCardena.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\trabajoPractico\TPFinal_LopezCardena\bin\Debug\net5.0\TPFinal_LopezCardena.exe
+C:\Users\USUARIO\Desktop\trabajoPractico\TPFinal_LopezCardena\bin\Debug\net5.0\TPFinal_LopezCardena.deps.json
+C:\Users\USUARIO\Desktop\trabajoPractico\TPFinal_LopezCardena\bin\Debug\net5.0\TPFinal_LopezCardena.runtimeconfig.json
+C:\Users\USUARIO\Desktop\trabajoPractico\TPFinal_LopezCardena\bin\Debug\net5.0\TPFinal_LopezCardena.runtimeconfig.dev.json
+C:\Users\USUARIO\Desktop\trabajoPractico\TPFinal_LopezCardena\bin\Debug\net5.0\TPFinal_LopezCardena.dll
+C:\Users\USUARIO\Desktop\trabajoPractico\TPFinal_LopezCardena\bin\Debug\net5.0\TPFinal_LopezCardena.pdb
+C:\Users\USUARIO\Desktop\trabajoPractico\TPFinal_LopezCardena\obj\Debug\net5.0\TPFinal_LopezCardena.dll
+C:\Users\USUARIO\Desktop\trabajoPractico\TPFinal_LopezCardena\obj\Debug\net5.0\refint\TPFinal_LopezCardena.dll
+C:\Users\USUARIO\Desktop\trabajoPractico\TPFinal_LopezCardena\obj\Debug\net5.0\TPFinal_LopezCardena.pdb
+C:\Users\USUARIO\Desktop\trabajoPractico\TPFinal_LopezCardena\obj\Debug\net5.0\TPFinal_LopezCardena.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\trabajoPractico\TPFinal_LopezCardena\obj\Debug\net5.0\ref\TPFinal_LopezCardena.dll
